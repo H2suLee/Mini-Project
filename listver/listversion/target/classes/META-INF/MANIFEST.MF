@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 11.0.13
+Main-Class: co.self.miniprj.finale.listversion.App
+Created-By: Maven Integration for Eclipse
+
